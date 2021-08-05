@@ -1,11 +1,11 @@
 # ESP Web Server
 
-<br>
 In this project, I used ESP8266 as a web station and with an interface to control robot movement using JSON.
+<br>
+
 
 
 # Method of Work
-<br>
 
 After running the ESP, I can connect to its network using wifi
 Then, I can open an html page which has five buttons: Forward, Right, Stop, Left, and Backward.
