@@ -1,6 +1,6 @@
-# ESP Web Server
+# ESP Access Point
 
-In this project, I used ESP8266 as a web station and with an interface to control robot movement using JSON.
+In this project, I used ESP8266 as an access point with an interface to control robot movement using JSON.
 <br>
 
 
